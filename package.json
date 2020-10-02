@@ -1,6 +1,5 @@
 {
-  "name": "portfolio",
-  "homepage": "https://MugheesMb.github.io/developerIdentity",
+  "name": "resume",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
